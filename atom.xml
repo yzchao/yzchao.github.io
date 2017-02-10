@@ -4,9 +4,9 @@
   <subtitle>天道酬勤，记录点滴</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/yzchao/"/>
+  <link href="https://yzchao.github.io/"/>
   <updated>2017-02-09T08:06:55.033Z</updated>
-  <id>https://github.com/yzchao/</id>
+  <id>https://yzchao.github.io/</id>
   
   <author>
     <name>锄禾当午</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title></title>
-    <link href="https://github.com/yzchao/2017/02/09/%E6%B5%8B%E8%AF%95blog/"/>
-    <id>https://github.com/yzchao/2017/02/09/测试blog/</id>
+    <link href="https://yzchao.github.io/2017/02/09/%E6%B5%8B%E8%AF%95blog/"/>
+    <id>https://yzchao.github.io/2017/02/09/测试blog/</id>
     <published>2017-02-09T08:01:32.940Z</published>
     <updated>2017-02-09T08:06:55.033Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/yzchao/2017/02/09/hello-world/"/>
-    <id>https://github.com/yzchao/2017/02/09/hello-world/</id>
+    <link href="https://yzchao.github.io/2017/02/09/hello-world/"/>
+    <id>https://yzchao.github.io/2017/02/09/hello-world/</id>
     <published>2017-02-09T07:19:31.537Z</published>
     <updated>2017-02-09T07:19:31.538Z</updated>
     
