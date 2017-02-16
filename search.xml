@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title></title>
+      <url>%2F2017%2F02%2F09%2F%E6%B5%8B%E8%AF%95blog%2F</url>
+      <content type="text"><![CDATA[测试我的博客123456789101112131415161718package cn.itcast.domain;import java.util.Date;public class User&#123; private String username; private String password; private String gender; private Date birthday; private String email; public String getUsername()&#123; retrun username; &#125; public void setUsername(String username)&#123; this.username = username; &#125; //......................................&#125;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F02%2F09%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[基于Hexo和Github搭建博客]]></title>
+      <url>%2F2016%2F11%2F09%2Ftesting%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+  
+  
+</search>
